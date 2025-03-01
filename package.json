@@ -1,0 +1,14 @@
+{
+  "name": "bcakend-project",
+  "version": "1.0.0",
+  "description": "make an full-stack backend applictaion with nodeJs and subport of chai and code",
+  "main": "inedx.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Amit",
+  "license": "ISC"
+}
